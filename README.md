@@ -13,10 +13,24 @@ these were some of my findings
 10. Switzaland accounts for the bulk of employees
 
 ## Reommendations
-Despite having less, more women are leaving, Policies should be put in place to encourage women to stay.
+Address gender imbalance (59% males) in the workforce.
 
-More women should be Promoted to higher and more important roles. this could also solve the high turnover.
+Investigate and reduce the high turnover rate (54.52%) among female employees.
 
-Russians should be encouraged to stay as they performed better in FY20 and still had a 50% turnover.
+Bridge the gender gap in promotions (59% men promoted, 41% women).
 
-link to the Visualization for more insights https://app.powerbi.com/links/P6MSp-c9g0?ctid=d0969e52-60cf-4bbe-bafb-93439f446b72&pbi_source=linkShare&bookmarkGuid=928f2d87-de53-425e-affe-47a696caef65
+Tailor programs for the majority of employees aged 20-29.
+
+Promote more women to higher roles, as there's a decline in representation.
+
+Examine and reduce the 44% female turnover in FY20.
+
+Investigate high turnover among Russian employees.
+
+Study and implement successful practices from Lebanon, Malaysia, and Russia for improved performance.
+
+Ensure gender balance across all departments.
+
+Review the need for a large employee base in Switzerland.
+
+link to the Visualization for more insights [https://app.powerbi.com/links/P6MSp-c9g0?ctid=d0969e52-60cf-4bbe-bafb-93439f446b72&pbi_source=linkShare&bookmarkGuid=928f2d87-de53-425e-affe-47a696caef65](https://www.novypro.com/project/diversity--inclusion-initiative)https://www.novypro.com/project/diversity--inclusion-initiative
