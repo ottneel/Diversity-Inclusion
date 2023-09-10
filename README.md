@@ -33,4 +33,4 @@ Ensure gender balance across all departments.
 
 Review the need for a large employee base in Switzerland.
 
-link to the Visualization for more insights [https://app.powerbi.com/links/P6MSp-c9g0?ctid=d0969e52-60cf-4bbe-bafb-93439f446b72&pbi_source=linkShare&bookmarkGuid=928f2d87-de53-425e-affe-47a696caef65](https://www.novypro.com/project/diversity--inclusion-initiative)https://www.novypro.com/project/diversity--inclusion-initiative
+link to the Visualization for more [insights](https://www.novypro.com/project/diversity--inclusion-initiative)
